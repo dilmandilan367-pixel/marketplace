@@ -1,0 +1,5 @@
+{
+  "name": "PyHtml Marketplace",
+  "description": "A professional marketplace for Python scripts and HTML templates. Features user authentication, an admin dashboard for price management, and order status tracking.",
+  "requestFramePermissions": []
+}
